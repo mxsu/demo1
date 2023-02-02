@@ -1,8 +1,3 @@
 This is text file 2. 
 
-Hello IAT339
-We look at VCS today.
-
-Testing Revert
-
 
